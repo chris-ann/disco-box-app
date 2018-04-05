@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.phonegap.helloworld" version="1.1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Disco Box</name>
+    <description>
+        3D box displayed using p5 and device orientation.
+    </description>
+    <author email="christine.clark@uleth.ca" href="http://chrisann.ca">
+        Christine Clark
+    </author>
+    <content src="index.html" />
+    <platform name="android">
+        <icon src="www/res/icon/icon.png" />
+    </platform>
+    <access origin="*" />
+</widget>
